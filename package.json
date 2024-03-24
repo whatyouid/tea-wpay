@@ -1,0 +1,24 @@
+{
+  "name": "tea-protocol",
+  "version": "1.0.0",
+  "description": "Wpay is a crypto to fiat exchanger for tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatyouid/tea-wpay.git"
+  },
+  "keywords": [
+    "tea",
+    "wpay"
+  ],
+  "author": "whatyouid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whatyouid/tea-wpay/issues"
+  },
+  "homepage": "https://github.com/whatyouid/tea-wpay#readme",
+  "source": "https://github.com/whatyouid/tea-wpay.git"
+}
